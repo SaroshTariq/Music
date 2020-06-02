@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Music</string>
+
+    <string name="option_view_details">View Local Details</string>
+    <string name="option_view_details_internet">View Details from Internet</string>
+    <string name="option_queue">Queue</string>
+
+
+    <string name="settings_show_queue">Show Queue</string>
+    <string name="seetings_theme">Theme Settings</string>
+
+
+</resources>

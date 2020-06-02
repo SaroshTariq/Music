@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/vd"
+        android:title="@string/option_view_details"/>
+    <item android:id="@+id/vdi"
+        android:title="@string/option_view_details_internet" />
+    <item
+        android:id="@+id/q"
+        android:title="@string/option_queue" />
+</menu>
